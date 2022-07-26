@@ -1,0 +1,40 @@
+{
+    "_": {
+        "categories": {
+            "other": [
+                "ping"
+            ],
+            "fun": [
+
+            ],
+            "useful": [
+                "invite",
+                "avatar"
+            ]
+        }
+    },
+    "categories": {
+        "other": {
+            "ping": {
+                "name": "ping",
+                "aliases": "none",
+                "description": "Replies with discord api ping"
+            }
+        },
+        "fun": {
+
+        },
+        "useful": {
+            "invite": {
+                "name": "invite",
+                "aliases": "none",
+                "description": "Generates a 7 day invite to the current channel"
+            },
+            "avatar": {
+                "name": "avatar",
+                "aliases": "av",
+                "description": "Replies with the mentioned user's avatar"
+            }
+        }
+    }
+}

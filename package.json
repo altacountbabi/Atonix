@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "hastebin-gen": "^2.0.5",
+    "request": "^2.88.2"
+  },
+  "name": "idk-lol",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
