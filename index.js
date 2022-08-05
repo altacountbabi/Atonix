@@ -81,5 +81,5 @@ client.on('messageCreate', message => {
     }
 })
 
-client.login(config.token)
+client.login(process.env.token)
 env.NODE_TLS_REJECT_UNAUTHORIZED = 1
