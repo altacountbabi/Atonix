@@ -1,3 +1,4 @@
+const keep_alive = require('./keep_alive.js')
 const Discord = require('discord.js')
 const config = require('./json/config.json')
 const fs = require('fs')
